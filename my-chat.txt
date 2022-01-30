@@ -1,0 +1,13 @@
+<span id="a">mikhail@root.chat</span>:<span id="b">~</span><span id="c">$</span> sudo su
+<span id="root">root@root.chat</span>:<span id="b">~</span><span id="c">#</span> cd 2022
+<span id="root">root@root.chat</span>:<span id="b">~/2022</span><span id="c">#</span> cat my-chat.txt<br/><br/>
+<strong>Добро пожаловать</strong>
+
+Для подключения используйте любой клиент SSH.
+
+<span id="k">Без библиотек</span>
+
+<a href="ssh:cookie.chat">[ Подключиться ]</a>
+
+<span id="root">root@root.chat</span>:<span id="b">~/2022</span><span id="c">#</span> rm -rf ~/2021
+<span id="root">root@root.chat</span>:<span id="b">~/2022</span><span id="c">#</span> exit
